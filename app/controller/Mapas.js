@@ -2,7 +2,7 @@ Ext.define('HolaMundo.controller.Mapas',{
     extend: 'Ext.app.Controller',
 
     views: [
-        'AM.view.Simple'
+        'HolaMundo.view.Simple'
     ],
 
     init: function(app) {

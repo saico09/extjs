@@ -23,7 +23,6 @@ Ext.application({
                         xtype: 'button',
                         id: 'simpleMapId',
                         text: 'Simple'
-
                     }]
                 }
 
